@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitApplication {
 
 	public static void main(String[] args) {
-		//comentárioss
+		//comentários
 		SpringApplication.run(GitApplication.class, args);
 	}
 }
